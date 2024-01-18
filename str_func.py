@@ -1,4 +1,4 @@
-def title_text(text):
+def upper_text(text):
     '''
     возвращает текст в верхнем регистре'''
-    return str(text.title)
+    return str(text.upper)
