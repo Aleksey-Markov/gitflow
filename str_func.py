@@ -1,3 +1,4 @@
+import random
 def upper_text(text):
     '''
     возвращает текста в
