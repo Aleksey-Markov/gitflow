@@ -1,1 +1,8 @@
 # gitflow
+DJANGO_KEY=django-insecure-mk440vae9o!ns$_a0dal%ic(1j3veqmusbtksqwjuk1p#t43h5
+
+POSTGRES_DB=Tables
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=83436891
+POSTGRES_HOST=127.0.0.1
+POSTGRES_PORT=5432
